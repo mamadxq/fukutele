@@ -1,0 +1,14 @@
+[
+  {
+    "iniafa": "081234567890",
+    "is_aktif": true
+  },
+  {
+    "iniafa": "085712345678",
+    "is_aktif": false
+  },
+  {
+    "iniafa": "089876543210",
+    "is_aktif": true
+  }
+]
